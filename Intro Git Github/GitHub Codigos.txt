@@ -1,0 +1,11 @@
+git status "verificar"
+
+git add . "adicionar todas pastas"
+
+git commit -m "texto para descrever" "adiciona texto para descrever"
+
+git push origin "manda para o github tudo"
+
+git clone "clona repositorio namaquina"
+
+
